@@ -1,4 +1,13 @@
 # Ask A Manager Salary Survey Analysis (Python)
+## Table of Content
+- [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [ToolsandTechnologies](#tools-and-technologies)
+- [Dataset](#dataset)
+- [Key Analysis Questions](#key-analysis-questions)
+- [Key Insights](#key-insights)
+- [Recommendations](#recommendations)
+
 ## Project Overview
 This project analyzes the Ask A Manager Salary Survey dataset to uncover key insights into salary trends across industries, experience levels, locations, gender, education, and other demographic factors. The analysis focuses on identifying the key drivers of salary differences and providing data-driven insights to support career and compensation decisions.
 
@@ -10,7 +19,7 @@ This project analyzes the Ask A Manager Salary Survey dataset to uncover key ins
 - Evaluate the impact of education level on salary
 - Explore the relationship between total experience and field-specific experience
 
-## Tools & Technologies
+## Tools and Technologies
 - Python
 - Pandas
 - Matplotlib
